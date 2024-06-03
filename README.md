@@ -11,5 +11,8 @@ HTML
 CSS
 JavaScript
 
+# Demo
+[https://fatemahnur.github.io/Tic-Tac-Toe/]
+
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
